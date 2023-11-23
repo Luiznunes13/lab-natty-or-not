@@ -23,20 +23,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto de geração de imagens
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Leoanardo AI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompit: Apresentador de jornal
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Homem branco de meia idade
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+``` é muito divertido e o mais complexo é tentar encaixar o prompit e aguarda o resultado
 
 ### Exemplos e Insigths
 
